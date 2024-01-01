@@ -11,7 +11,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 Clone the repository containing your BMI calculator application.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/DarkHoust/BMI_calculator.git
 cd bmi_calculator
 ```
 
