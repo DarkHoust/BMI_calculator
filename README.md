@@ -19,8 +19,14 @@ cd bmi_calculator
 
 Install the required npm packages by running the following command in your terminal:
 ```bash
-npm install
+npm install 
 ```
+
+In case of access error, try this command in your terminal:
+```bash
+sudo npm install
+```
+
 This will install the necessary dependencies specified in your package.json file.
 
 ### Step 4: Run the Application
@@ -55,7 +61,7 @@ Remember that this set of instructions assumes your Express application is set u
 ```
 
 ### Author 
-'DarkHost' Sultan
+Sultan 'DarkHost'
 
 
 
